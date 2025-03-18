@@ -1,6 +1,6 @@
---@Streoids
 name = "Uptime"
 description = "Tells the time since Minecraft has started use '.uptm' to see."
+--@Streoids
 local startTime = os.time()
 function onEnable()
 end
