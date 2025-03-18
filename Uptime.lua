@@ -1,6 +1,6 @@
-name="Uptime"
-description="Tells the time since Minecraft has started use '.uptm' to see."
-author="Streoids"
+name = "Uptime"
+description = "Tells the time since Minecraft has started use '.uptm' to see."
+author = "Streoids"
 --@Streoids
 local startTime=os.time()
 function onEnable()
